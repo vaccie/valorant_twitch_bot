@@ -1,0 +1,9 @@
+{
+    "OAuthToken": "your-oauth-token",
+    "APIKey": "your-henrik-api-key",
+    "ChannelName": "your-twitch-channel",
+    "PlayerName": "your-valorant-name",
+    "PlayerTag": "your-valorant-tag",
+    "Region": "your-region",
+    "Platform": "your-platform"
+}
